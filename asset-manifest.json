@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yoonholeeeee/nike.git/static/css/main.c53600a2.css",
+    "main.js": "/yoonholeeeee/nike.git/static/js/main.40380ff9.js",
+    "static/js/453.f0e33eac.chunk.js": "/yoonholeeeee/nike.git/static/js/453.f0e33eac.chunk.js",
+    "index.html": "/yoonholeeeee/nike.git/index.html",
+    "main.c53600a2.css.map": "/yoonholeeeee/nike.git/static/css/main.c53600a2.css.map",
+    "main.40380ff9.js.map": "/yoonholeeeee/nike.git/static/js/main.40380ff9.js.map",
+    "453.f0e33eac.chunk.js.map": "/yoonholeeeee/nike.git/static/js/453.f0e33eac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c53600a2.css",
+    "static/js/main.40380ff9.js"
+  ]
+}
