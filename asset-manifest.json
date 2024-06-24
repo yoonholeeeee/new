@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yoonholeeeee/new.git/static/css/main.c53600a2.css",
-    "main.js": "/yoonholeeeee/new.git/static/js/main.8add193e.js",
-    "static/js/453.f0e33eac.chunk.js": "/yoonholeeeee/new.git/static/js/453.f0e33eac.chunk.js",
-    "index.html": "/yoonholeeeee/new.git/index.html",
-    "main.c53600a2.css.map": "/yoonholeeeee/new.git/static/css/main.c53600a2.css.map",
-    "main.8add193e.js.map": "/yoonholeeeee/new.git/static/js/main.8add193e.js.map",
-    "453.f0e33eac.chunk.js.map": "/yoonholeeeee/new.git/static/js/453.f0e33eac.chunk.js.map"
+    "main.css": "./static/css/main.c53600a2.css",
+    "main.js": "./static/js/main.8e48b37c.js",
+    "static/js/453.f0e33eac.chunk.js": "./static/js/453.f0e33eac.chunk.js",
+    "index.html": "./index.html",
+    "main.c53600a2.css.map": "./static/css/main.c53600a2.css.map",
+    "main.8e48b37c.js.map": "./static/js/main.8e48b37c.js.map",
+    "453.f0e33eac.chunk.js.map": "./static/js/453.f0e33eac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c53600a2.css",
-    "static/js/main.8add193e.js"
+    "static/js/main.8e48b37c.js"
   ]
 }
